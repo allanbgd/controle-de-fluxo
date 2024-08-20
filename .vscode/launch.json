@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "FormatadorDeCep",
+            "request": "launch",
+            "mainClass": "FormatadorDeCep",
+            "projectName": "controle-de-fluxo_ceff02fe"
+        },
+        {
+            "type": "java",
+            "name": "AboutMe",
+            "request": "launch",
+            "mainClass": "AboutMe",
+            "projectName": "controle-de-fluxo_ceff02fe"
+        },
+        {
+            "type": "java",
+            "name": "Dwhile",
+            "request": "launch",
+            "mainClass": "Dwhile",
+            "projectName": "controle-de-fluxo_ceff02fe"
+        },
+        {
+            "type": "java",
+            "name": "BreakContinue",
+            "request": "launch",
+            "mainClass": "BreakContinue",
+            "projectName": "controle-de-fluxo_ceff02fe"
+        },
+        {
+            "type": "java",
+            "name": "forArrays",
+            "request": "launch",
+            "mainClass": "forArrays",
+            "projectName": "controle-de-fluxo_ceff02fe"
+        },
+        {
+            "type": "java",
+            "name": "ExemploFor",
+            "request": "launch",
+            "mainClass": "ExemploFor",
+            "projectName": "controle-de-fluxo_ceff02fe"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "ResultadoEscolar",
